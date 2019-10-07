@@ -1,0 +1,138 @@
+AutoDoc
+
+
+
+An ai based health solution that connects users to doctors in real time 
+
+APP FUNCTIONALITIES
+
+VOICE ASSISTANT 
+will aid newbies on the app functionalities, by communicating the workflow process..
+
+
+Secondly, the assistant will help users search through for other functionalities by speech.
+
+BACKEND DEVELOPMENT
+In the backend, instead of training a model from scratch to do this, we would employ Google cloud console inbuilt voice assistant and manipulate the workflow.
+
+In terms of connecting users with doctors, the app api would host video and audio connections that allow such interference..
+
+
+With the video interference, this allows users to communicate one on one with the doctor and can book realtime appointment if condition is critical
+
+With the video interference, the doctor is shown realtime details of the patient, in such cases when the user books an online appointment for next time, it makes it easier for the doctor to know the eaxct client with his condition by default
+
+So basically the user can reach out to the doctor through
+
+Live video
+
+Live audio
+
+And can book appointment for next time with that same doctor..
+By doing this, the app automatically saves these details for next time and reminds both parties of the online appointment
+
+
+APP FUNCTIONALITIES...
+Also we would create some added functionalities to the app, such that in situation where the doctor is extremely busy and cannot be reached a trained deep learning model can solve real time health problems..
+
+
+So we would train a model to predict health conditions at the same time proffer the exact medication for that condition..
+And also connect you with a close pharmacy nearly were u can get those drugs
+
+Two things can happen.
+
+
+Its either u use the Google earth tracker which will be on the app to locate the pharmacy
+
+Or..
+
+Contact the pharmacy directly for them to deliver that drug to your residence
+
+So users location would have to be activated at all times when app is in use
+
+Lest I forget, we would use biometric encryption for user registration..
+Such that users can use their fingerprints api on their phones to register at the same time login
+
+REGISTRATION API
+Users would have the option of selecting from
+
+Biometric
+
+Password
+
+Pin
+
+For registration
+
+GOOGLE EARTH API
+Also hosted on app would be Google earth api, such that directions an exact locations of both parties can be seen in realtime during communications
+
+We would also host a database api that reads in user details upon registration..
+
+
+USER INFO
+When a user has successful communicated with the doctor, he will fill a form that will be sent to the doctor at the same time stored in the backend..
+
+This form allows the trained api display the user information to the doctor during another online appointment
+Users would also be able to keep track of their health from time to time..
+
+They will have the ability to do routine checkup with our trained api that can predict automatically..
+Cases like pregnancy, the women would be able to keep track of her pregnancy and know the exact date of delivery
+
+Users would be notified for all routine checkup at the same appointment with doctors, they will be notified
+
+Another another functionalities will be
+
+To show users closeby hospitals at the same time predict the availability of beds in those hospitals..
+
+This will be done..
+
+Why?
+
+Because in a situation where the patient condition is highly critical and he needs a hospital immediately, this function will aid that process
+
+He/she can easily locate the next available hospital in town that is very close..
+
+
+And can make contact with their customer care for immediate ambulance
+So the app would be open for all to register from any states in Nigeria..
+The doctors will be open from any country of the world
+
+AUTDODOC PROFIT MODEL
+Like I earlier highlighted from our most previous conversation..
+AutoDoc will optimize uber model for profit and not for functionalities
+
+What this means is that we are only adopting the same model use for making profit..
+
+We are not adopting their app functionalities
+The approach for the model suggests that we would charge a fee of 10% for every value offered from services rendered by both parties..
+But the 10% will be from the doctors account
+
+For other functionalities, am suggesting we do it for free, but we would figure that out notwithstanding
+When a doctor signs up, his credentials would be verified before he/she is certified for interaction with our customers..
+
+
+Upon certification he/she would provide his details as well as his/her account details. 
+We would initiate a 10% on his account of every interaction with our clients..
+
+Now..
+The user would have an option for making 
+
+Cash or 
+Card payment
+
+Upon the user registration, he/she would be asked for his/her account details..
+A user can opt out of this at the initial registration and do this later
+A cash payment involves the client paying the money charged for that consultant with the doctor for that particular time..
+
+
+This involves transferring the money directly to the doctors account
+Then the 10% would be charged from the doctor updated account
+
+For a card payment..
+
+After a consultation has been reached between the two parties..
+The updated account of the user would be billed the exact amount and credited to the doctor 90% while 10% goes to us
+
+
+My Overview for AutoDoc
