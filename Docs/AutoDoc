@@ -13,13 +13,12 @@ will aid newbies on the app functionalities, by communicating the workflow proce
 Secondly, the assistant will help users search through for other functionalities by speech.
 
 BACKEND DEVELOPMENT
-In the backend, instead of training a model from scratch to do this, we would employ Google cloud console inbuilt voice assistant and manipulate the workflow.
-
+In the backend, instead of training a model from scratch to do this, 
+we would employ Google cloud console inbuilt voice assistant and manipulate the workflow.
 In terms of connecting users with doctors, the app api would host video and audio connections that allow such interference..
 
 
 With the video interference, this allows users to communicate one on one with the doctor and can book realtime appointment if condition is critical
-
 With the video interference, the doctor is shown realtime details of the patient, in such cases when the user books an online appointment for next time, it makes it easier for the doctor to know the eaxct client with his condition by default
 
 So basically the user can reach out to the doctor through
