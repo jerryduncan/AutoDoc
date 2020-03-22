@@ -31,7 +31,8 @@ Obafunso Ridwan
 
 Work Files/folders 
 ---------------------
-* database - the file db.js in the database folder ensures the conneection to mysql database. 
+* database - the file db.js in the database folder ensures the conneection to mysql database.
+
   *Requirements*
     - Download Xampp at https://www.apachefriends.org/download.html
     - Install Xampp on your local machine
