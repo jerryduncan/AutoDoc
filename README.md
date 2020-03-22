@@ -49,7 +49,7 @@ How to make it work
 -----------------------
 * Download or clone the repository using the command in your terminal
 
-_git clone 
+ *git clone https://github.com/aloko001/AutoDoc.git*
 
 
 ![AutoDoc](https://github.com/aloko001/AutoDoc/blob/master/Docs/WhatsApp%20Image%202020-02-01%20at%203.10.08%20PM.jpeg)
