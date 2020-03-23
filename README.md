@@ -53,7 +53,41 @@ How to make it work
  
   - or -
   
- *Download by clicking the 'Clone/Download' button at the right hand side*.
+ *Download by clicking the 'Clone or Download' button at the right hand side*.
+ 
+* Ensure you have nodejs installed on your system. If not, download and install using this link: https://nodejs.org/en/download/
+
+* Move the cloned repository to your c:\ drive.
+
+* You can open it through VSCode (if you have it) or through your Cmd. Ensure your cmd points to the cloned folder.
+
+* Then run *npm install* (This automatically installs all the dependencies you have in the package.json file and stores it in the node_modules folder).
+
+React Native Dependencies
+------------------------------------
+
+* Use the command *cd public* to move into the public folder.
+
+* Also, run *npm install* to install your react native and client side dependencies available in the public folder's package.json file.
+
+
+Note:
+------------------------------------
+* Ensure you have the expo application installed on your mobile device (android)
+
+Execution:
+-------------------------------------
+* Make sure that the terminal points to the root folder
+
+* Type *npm run dev* and hit your enter button
+
+* When the expo cli is opened, launch the expo app on your smart phone to scan the QR/Barcode to make the application open up.
+
+* Happy Coding....
+
+
+
+
 
 
 ![AutoDoc](https://github.com/aloko001/AutoDoc/blob/master/Docs/WhatsApp%20Image%202020-02-01%20at%203.10.08%20PM.jpeg)
