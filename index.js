@@ -20,4 +20,4 @@ app.use('/api', require('./routes/api'));
 const PORT = 6000;
 
 app.listen(PORT);
-console.log("api runnging on port " + PORT + ": ");
+console.log("api running on port " + PORT + ": ");
