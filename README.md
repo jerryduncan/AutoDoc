@@ -61,14 +61,14 @@ How to make it work
 
 * You can open it through VSCode (if you have it) or through your Cmd. Ensure your cmd points to the cloned folder.
 
-* Then run `*npm install*` (This automatically installs all the dependencies you have in the package.json file and stores it in the node_modules folder).
+* Then run `npm install` (This automatically installs all the dependencies you have in the package.json file and stores it in the node_modules folder).
 
 React Native Dependencies
 ------------------------------------
 
 * Use the command *cd public* to move into the public folder.
 
-* Also, run `*npm install*` to install your react native and client side dependencies available in the public folder's package.json file.
+* Also, run `npm install` to install your react native and client side dependencies available in the public folder's package.json file.
 
 
 Note:
@@ -79,7 +79,7 @@ Execution:
 -------------------------------------
 * Make sure that the terminal points to the root folder
 
-* Type `*npm run dev*` and hit your enter button
+* Type `npm run dev` and hit your enter button
 
 * When the expo cli is opened, launch the expo app on your smart phone to scan the QR/Barcode to make the application open up.
 
